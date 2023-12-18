@@ -1,0 +1,2 @@
+# AnyManagerQualitySDK
+AnyManagerQualitySDK
